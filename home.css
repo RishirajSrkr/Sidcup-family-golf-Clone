@@ -2,22 +2,22 @@
 
 @font-face {
     font-family: bold;
-    src: url(/fonts/ClashDisplay-Bold.ttf);
+    src: url(./fonts/ClashDisplay-Bold.ttf);
 }
 
 @font-face {
     font-family: medium;
-    src: url(/fonts/clashdisplaymedium.ttf);
+    src: url(./fonts/clashdisplaymedium.ttf);
 }
 
 @font-face {
     font-family: semibold;
-    src: url(/fonts/clashdisplaysemibold.ttf);
+    src: url(./fonts/clashdisplaysemibold.ttf);
 }
 
 @font-face {
     font-family: regular;
-    src: url(/fonts/ClashDisplay-Regular.ttf);
+    src: url(./fonts/ClashDisplay-Regular.ttf);
 }
 
 
